@@ -1,22 +1,23 @@
 #container
 {
 	margin: 0 30px;
-	background: #fff;
+	background: #FFFFF4
 }
 
 #header
 {
-	background: #ccc;
+	background: #FEF86C;
 	padding: 20px;
 }
 
-#header h1 { margin: 0; }
+#header h1 { margin: 0; 
+			color : #2F1B0C; }
 
 #navigation
 {
 	float: left;
 	width: 100%;
-	background: #333;
+	background: #FEF86C;
 }
 
 #navigation ul
@@ -36,7 +37,7 @@
 	display: block;
 	float: left;
 	padding: 5px 10px;
-	color: #fff;
+	color: #FEF86C;
 	text-decoration: none;
 	border-right: 1px solid #fff;
 }
@@ -62,7 +63,7 @@
 
 #edito h2
 {
-	color: #000;
+	color: #8E5434;
 	font-size: 160%;
 	margin: 0 0 .5em;
 }
@@ -88,7 +89,7 @@
 #footer
 {
 	clear: both;
-	background: #ccc;
+	background: #FEF86C;
 	text-align: right;
 	padding: 20px;
 	height: 1%;
